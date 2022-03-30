@@ -58,14 +58,16 @@ namespace mvc_locations.Data
                 {
                     id = 3,
                     city_name = "Zagreb",
-                    latitude = 40.73061M,
-                    longitude = -73.740135M,
+                    latitude = 45.815399M,
+                    longitude = 15.966568M,
                     country_id = 2,
                 },
                 new City
                 {
                     id = 4,
                     city_name = "Rijeka",
+                    latitude = 45.328979M,
+                    longitude = 14.457664M,
                     country_id = 2,
                 },
                 new City
@@ -73,12 +75,16 @@ namespace mvc_locations.Data
                     id = 5,
                     city_name = "Split",
                     country_id = 2,
+                    latitude = 43.508133M,
+                    longitude = 16.440193M
                 },
                 new City
                 {
                     id = 6,
                     city_name = "Los Angeles",
                     country_id = 1,
+                    latitude = 34.052235M,
+                    longitude = -118.243683M
                 }
             );
 
